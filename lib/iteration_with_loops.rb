@@ -7,7 +7,7 @@ counter = 0
     element_counter = 0
     while element_counter < src[counter].length
       if src[counter][element_counter].even?
-        p
+         src[counter][element_counter]
       end
       element_counter +=1
     end
