@@ -3,6 +3,6 @@ def find_even_values(src)
   #
   # Output all even values in each nested array
 counter = 0
-while counter < src.
+while counter < src.length
 
 end
