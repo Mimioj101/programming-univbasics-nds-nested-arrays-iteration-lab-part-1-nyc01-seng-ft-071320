@@ -14,5 +14,3 @@ counter = 0
     counter +=1
   end
 end
-
-find_even_values
